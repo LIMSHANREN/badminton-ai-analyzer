@@ -1,0 +1,15 @@
+# 忽略模型权重文件
+*.task
+*.pt
+*.onnx
+
+# 忽略生成的和测试用的视频/图片文件
+*.mp4
+*.avi
+*.JPG
+*.jpeg
+*.png
+
+# 忽略 Python 缓存与环境文件
+__pycache__/
+.ipynb_checkpoints/
